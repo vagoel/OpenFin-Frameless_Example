@@ -1,6 +1,8 @@
+## Note - To start debugging using VScode refer to the launch configuration.Run the openfin application (npm start) and then start the debugger from VScode
+
 # OpenFin-Frameless_Example
 
-This project explains how to create an OpenFin Frameless Window with a custom title-bar.  OpenFin allows you to remove the standard O/S from from a window, however this also reoves the standard window controls normally expected by an end user.  This project includes a custom title bar that returns the controls to the user.
+This project explains how to create an OpenFin Frameless Window with a custom title-bar. OpenFin allows you to remove the standard O/S from from a window, however this also reoves the standard window controls normally expected by an end user. This project includes a custom title bar that returns the controls to the user.
 
 ## Installing and running the project
 

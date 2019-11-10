@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "attach",
+            "name": "Attach (OpenFin)",
+            "port": 9222,
+            "runtimeExecutable": "/Users/varun/OpenFin/Runtime/14.78.45.31/OpenFin.app/Contents/MacOS/OpenFin",
+            "url": "http://localhost:8000/index.html",
+        }
+    ]
+}
